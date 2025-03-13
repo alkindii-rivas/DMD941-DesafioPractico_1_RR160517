@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DesafíoPractico_1", "DesafíoPractico_1\DesafíoPractico_1.dtproj", "{83755D5A-C72C-6B9F-0325-4B70C8F324A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83755D5A-C72C-6B9F-0325-4B70C8F324A2}.Development|Default.ActiveCfg = Development
+		{83755D5A-C72C-6B9F-0325-4B70C8F324A2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC21AD65-3803-4C32-B487-3D4E561330A5}
+	EndGlobalSection
+EndGlobal
